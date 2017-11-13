@@ -2,17 +2,14 @@
   border: 7px solid teal;
   padding-left: 20px;
   padding-right: 20px;
-  padding-bottom: 40px;
+  padding-bottom: 1000px;
 }
-/*
-.container1 {
-  border: 1px dashed grey;
 
+.boxes {
+  margin-left: 100px;
+  margin-right: 100px;
 }
-.container2{
-    border: 1px dashed grey;
 
-}*/
 .gray-box {
   display: inline-block;
   float: left;
@@ -21,7 +18,6 @@
   padding: 10px;
 
   background-color: gray;
-  margin-left: 100px;
   margin-top: 300px;
   margin-bottom: 300px;
   box-sizing: border-box;
@@ -40,7 +36,6 @@
   margin-left: 40px;
   margin-top: 300px;
   margin-bottom: 300px;
-  margin-right: 100px;
 }
 
 .top-purple-box {
